@@ -1,5 +1,7 @@
 <img src="http://leafletjs.com/docs/images/logo.png" alt="Leaflet" />
 
+*Note*: This is a fork of https://github.com/Leaflet/Leaflet.
+
 Leaflet is an open source JavaScript library for **mobile-friendly interactive maps**.
 It is developed by [Vladimir Agafonkin][] of [MapBox][] with a team of dedicated [contributors][].
 Weighing just about 30 KB of gzipped JS code, it has all the [features][] most developers ever need for online maps.
